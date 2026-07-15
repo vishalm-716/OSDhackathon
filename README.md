@@ -71,3 +71,14 @@ Open `http://localhost:3000`.
 ## License
 
 MIT
+
+## Screenshots
+
+### Chat page
+![Chat page](chat%20page.png)
+
+### Copy to chat
+![Copy to chat](copy%20to%20chat.png)
+
+### Vision page
+![Vision page](vision%20page.png)
